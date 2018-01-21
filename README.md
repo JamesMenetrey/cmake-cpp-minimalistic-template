@@ -72,6 +72,11 @@ This repository uses Google test library to execute the unit tests. They can be 
 under ``build/vectorLib/test``.
 
 
+## Using CLion as an IDE
+This solution can be opened using CLion and provide a preconfigured environment for it, such as predefined build
+configurations to execute the demo application and the Google tests.
+
+
 ## References
 
 ### General architecture and layout tutorials
@@ -91,7 +96,8 @@ under ``build/vectorLib/test``.
 
 ### CLion
 
-- [CLion: Getting started with Google Test](https://www.jetbrains.com/help/clion/google-test-support.html)
+- [JetBrains: Getting started with Google Test](https://www.jetbrains.com/help/clion/google-test-support.html)
+- [JetBrains: Best practices for .gitignore and JetBrain's IDEs](https://intellij-support.jetbrains.com/hc/en-us/articles/206544839)
 
 
 ## License
