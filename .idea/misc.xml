@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="CidrRootsConfiguration">
+    <sourceRoots>
+      <file path="$PROJECT_DIR$/app/include" />
+      <file path="$PROJECT_DIR$/app/src" />
+      <file path="$PROJECT_DIR$/app/test/src" />
+      <file path="$PROJECT_DIR$/vectorLib/include" />
+      <file path="$PROJECT_DIR$/vectorLib/src" />
+      <file path="$PROJECT_DIR$/vectorLib/test/src" />
+    </sourceRoots>
+    <libraryRoots>
+      <file path="$PROJECT_DIR$/lib" />
+    </libraryRoots>
+  </component>
+</project>
