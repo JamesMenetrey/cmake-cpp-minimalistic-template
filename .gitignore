@@ -8,6 +8,9 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 
+# Ignore build folder
+build/
+
 # CLion workspace
 .idea/tasks.xml
 .idea/workspace.xml
